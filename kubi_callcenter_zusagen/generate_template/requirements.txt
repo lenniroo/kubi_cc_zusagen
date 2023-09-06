@@ -1,0 +1,6 @@
+paramiko
+pandas
+xlrd
+openpyxl
+didas[oracle]
+python-dotenv

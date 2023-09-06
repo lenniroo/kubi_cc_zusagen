@@ -1,0 +1,9 @@
+Cryptography
+paramiko
+datetime
+pandas
+xlrd
+openpyxl
+pytest
+didas[oracle]
+python-dotenv
